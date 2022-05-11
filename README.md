@@ -1,5 +1,8 @@
 # JointSavings 
 
+![logo](https://user-images.githubusercontent.com/94565094/167935558-16919a9e-42c5-4188-b52d-dff3651b5a94.png)
+
+
 This repo contains solidity building smart contracts to automate many of the institutions’ financial processes and features, such as hosting joint savings accounts. Solidity smart contract accepts two user addresses. These addresses are able to control a joint savings account. JointSavings smart contract use ether management functions to implement a financial institution’s requirements for providing the features of the joint savings account. These features consist of the ability to deposit and withdraw funds from the account.
 
 ## Technologies
