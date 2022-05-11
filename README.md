@@ -8,7 +8,7 @@ JointSavings smart contract is written in Solidity ^0.5.0;
 
 ## Installation Guide
 
-Access Remix online     remix.ethereum.org
+Access Remix online     remix.ethereum.org.
 You do not need to install anything. If you want to use it without connection to the Internet, go to https://github.com/ethereum/remix-live/tree/gh-pages and download the .zip file as explained on that page. Remix is also a convenient option for testing nightly builds without installing multiple Solidity versions.
 
 ## Usage
