@@ -8,16 +8,15 @@ JointSavings smart contract is written in Solidity ^0.5.0;
 
 ## Installation Guide
 
-    pip install solidity
+Access Remix online     remix.ethereum.org
+You do not need to install anything. If you want to use it without connection to the Internet, go to https://github.com/ethereum/remix-live/tree/gh-pages and download the .zip file as explained on that page. Remix is also a convenient option for testing nightly builds without installing multiple Solidity versions.
 
 ## Usage
 
-In the command line go to the folder containing the smart contract. Run Remix Ide to start the smart contract.
-
-    remix.ethereum.org
+Use Remix IDE to open smart contract:
     https://remix.ethereum.org/#optimize=false&runs=200&evmVersion=null&version=soljson-v0.8.7+commit.e28d00a7.js
 
-When Compile joint_savings.sol choose the correct compiler 
+When Compile joint_savings.sol choose the correct compiler:
 
 
 ![compiler](https://user-images.githubusercontent.com/94565094/167933858-b28f6ede-9c73-4f6b-8641-38b17f37f607.png)
