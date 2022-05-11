@@ -18,6 +18,7 @@ In the command line go to the folder containing the smart contract. Run Remix Id
     https://remix.ethereum.org/#optimize=false&runs=200&evmVersion=null&version=soljson-v0.8.7+commit.e28d00a7.js
 
 When Compile joint_savings.sol choose the correct compiler 
+![compiler](https://user-images.githubusercontent.com/94565094/167933858-b28f6ede-9c73-4f6b-8641-38b17f37f607.png)
 
 ## Contributors
 
